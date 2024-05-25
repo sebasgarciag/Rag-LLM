@@ -1,0 +1,5 @@
+langchain
+unstructured # Para cargar los documentos
+chromadb # Para la base de datos vector storage
+openai # Para utilizar los embeddings
+tiktoken  # Para utilizar los embeddings
